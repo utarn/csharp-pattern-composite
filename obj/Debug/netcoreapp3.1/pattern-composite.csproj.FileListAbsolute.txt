@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-composite\bin\Debug\netcoreapp3.1\pattern-composite.exe
+C:\projects\dotnet\pattern-composite\bin\Debug\netcoreapp3.1\pattern-composite.deps.json
+C:\projects\dotnet\pattern-composite\bin\Debug\netcoreapp3.1\pattern-composite.runtimeconfig.json
+C:\projects\dotnet\pattern-composite\bin\Debug\netcoreapp3.1\pattern-composite.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-composite\bin\Debug\netcoreapp3.1\pattern-composite.dll
+C:\projects\dotnet\pattern-composite\bin\Debug\netcoreapp3.1\pattern-composite.pdb
+C:\projects\dotnet\pattern-composite\obj\Debug\netcoreapp3.1\pattern-composite.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-composite\obj\Debug\netcoreapp3.1\pattern-composite.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-composite\obj\Debug\netcoreapp3.1\pattern-composite.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-composite\obj\Debug\netcoreapp3.1\pattern-composite.AssemblyInfo.cs
+C:\projects\dotnet\pattern-composite\obj\Debug\netcoreapp3.1\pattern-composite.dll
+C:\projects\dotnet\pattern-composite\obj\Debug\netcoreapp3.1\pattern-composite.pdb
+C:\projects\dotnet\pattern-composite\obj\Debug\netcoreapp3.1\pattern-composite.genruntimeconfig.cache
